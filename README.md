@@ -1,4 +1,6 @@
-# MERN Stack Capstone Project
+# MERN Stack Capstone Project 
+# PLEASE FOLLOW THIS LINK TO THE REAL PROJECT : https://github.com/HafenaajeA/MyLocal_Connect.git
+# THANK YOU
 
 This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
 
